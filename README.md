@@ -1,4 +1,4 @@
-Hello 🌍👐
+Hello 🌍👐, I'm Jenish
 
 - 🔭 I’m currently working on my skills to be career ready by the end of this year
 - 🌱 I’m currently learning Python and Frontend
