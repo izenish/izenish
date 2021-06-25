@@ -1,19 +1,12 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izenish)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izenish&count_private=true)
+Hello 🌍👐
+
+- 🔭 I’m currently working on my skills to be career ready by the end of this year
+- 🌱 I’m currently learning Python and Frontend
+- 👯 I’m looking to collaborate on any open source projects that I can help
+- 🤔 I’m looking for help with guidance
+- 💬 Ask me about struggle and procastination 😪
+- 📫 How to reach me: izenish on IG 
+- ⚡ Fun fact:I perform great while working in TEAMs
 
 
-<!--
-**izenish/izenish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=izenish&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
