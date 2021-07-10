@@ -7,6 +7,9 @@ Hello 🌍👐, I'm Jenish
 - 💬 Ask me about struggle and procastination 😪
 - 📫 How to reach me: izenish on IG 
 - ⚡ Fun fact:I perform great while working in TEAMs
+- Reach me here:https://linktr.ee/izenish
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=izenish&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://drive.google.com/file/d/1zvp2a2SoA3ZuoQX_3lOV58QnPr9iPBNB/view?usp=sharing">
