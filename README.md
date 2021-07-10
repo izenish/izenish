@@ -12,4 +12,4 @@ Hello 🌍👐, I'm Jenish
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=izenish&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="https://drive.google.com/file/d/1zvp2a2SoA3ZuoQX_3lOV58QnPr9iPBNB/view?usp=sharing">
+<img src="https://imgur.com/31erTmy">
