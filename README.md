@@ -1,7 +1,7 @@
 Hello 🌍👐, I'm Jenish
 
-- 🔭 I’m currently working on my skills to be career ready by the end of this year
-- 🌱 I’m currently learning Python and Frontend
+- 🔭 I’m currently exploring Data as an ETL Developer
+- 🌱 I’m currently learning Data Engineering
 - 👯 I’m looking to collaborate on any open source projects that I can help
 - 🤔 I’m looking for help with guidance
 - 💬 Ask me about struggle and procastination 😪
